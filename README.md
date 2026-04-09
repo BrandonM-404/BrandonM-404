@@ -1,16 +1,37 @@
-## Hi there 👋
+## I'm Brandon, SDET!
 
-<!--
-**BrandonM-404/BrandonM-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Skills
 
-Here are some ideas to get you started:
+#### Testing
+- Playwright(New, love it!)
+- Selenium
+- ETL & API testing
+- Unit, Regression, Integration testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### FrontEnd 
+- Typescript & Javascript
+- HTML & CSS
+
+ #### BackEnd
+- Python
+- C#
+- .NET
+
+#### DB
+- SQL
+- PostGres
+- SQLite
+
+## Projects/Contact
+
+### Currently Working on:
+ - Automation for Non-Profit Web Projects
+ - JavaScript to TypeScript Projects
+
+### 🌱 I’m currently learning:
+- Vue.js
+- Java(Enterprises still love it!)
+- Functional/Data Driven Design(Want to level this one up!)
+
+ 📫 How to reach me for work: **Check my LinkedIn!**
+
