@@ -1,4 +1,4 @@
-## I'm Brandon, SDET!
+## I'm Brandon, SDE/SDET!
 
 ### Current SkillSet
 
@@ -31,7 +31,7 @@
 ### 🌱 I’m currently learning:
 - Vue.js
 - Java(Enterprises still love it!)
-- Functional/Data Driven Design(Want to level this one up!)
+- DevSecOps(Need to practice my CI/CD more!)
 
  📫 How to reach me for work: **Check my LinkedIn!**
 
