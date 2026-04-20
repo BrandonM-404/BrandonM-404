@@ -26,12 +26,10 @@
 
 ### Currently Working on:
  - Automation for Non-Profit Web Projects
- - JavaScript to TypeScript Projects
+ - Open to additional JavaScript to TypeScript Projects
 
 ### 🌱 I’m currently learning:
-- Vue.js
-- Java(Enterprises still love it!)
-- DevSecOps(Need to practice my CI/CD more!)
+- DevSecOps
 
  📫 How to reach me for work: **Check my LinkedIn!**
 
