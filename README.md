@@ -1,5 +1,5 @@
 ## I'm Brandon, SDE/SDET!
-
+- Former CTO at Montier Design, currently preparing new projects!
 ### Current SkillSet
 
 #### Testing
