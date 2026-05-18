@@ -9,7 +9,7 @@
 - Unit, Regression, Integration testing
 
 #### FrontEnd 
-- Typescript & Javascript
+- Typescript & React
 - HTML & CSS
 
  #### BackEnd
