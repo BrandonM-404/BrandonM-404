@@ -27,6 +27,7 @@
 ### Currently Working on:
  - Automation for Non-Profit Web Projects
  - Open to additional JavaScript to TypeScript Projects
+ - Contributing to Godot Tools/Extensions
 
 ### 🌱 I’m currently learning:
 - DevSecOps
