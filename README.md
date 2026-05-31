@@ -33,6 +33,7 @@
 
 ### 🌱 I’m currently learning:
 - DevSecOps
+- C++
 
  📫 How to reach me for work: **Check my LinkedIn!**
 
