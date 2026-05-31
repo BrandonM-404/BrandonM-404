@@ -2,7 +2,6 @@
 - Former CTO at Montier Design, currently preparing new projects!
 - FullStack Dev
 - Game Dev
-- Working on MBA soon!
 ### Current SkillSet
 
 #### Testing
