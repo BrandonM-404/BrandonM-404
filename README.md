@@ -20,11 +20,9 @@
 - .NET
 
 #### DB
-- SQL
+- SQL/SQLite
 - PostGres
-- SQLite
 
-## Projects/Contact
 
 ### Currently Working on:
  - Automation for Non-Profit Web Projects
@@ -32,5 +30,4 @@
  - Contributing to Godot Tools/Extensions
 
 ### 🌱 I’m currently learning:
-- DevSecOps
-- C++
+- Things little by little!
