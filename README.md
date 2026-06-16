@@ -5,7 +5,7 @@
 ### Current SkillSet
 
 #### Testing
-- Playwright(Still love it!)
+- Playwright
 - Selenium
 - ETL & API testing
 - Unit, Regression, Integration testing
