@@ -1,6 +1,5 @@
 ## I'm Brandon, SDE/SDET!
 - Former CTO at Montier Design
-- FullStack Dev
 - Game Dev
 ### Current SkillSet
 
@@ -23,11 +22,6 @@
 - SQL/SQLite
 - PostGres
 
-
 ### Currently Working on:
- - Automation for Non-Profit Web Projects
- - Fullstack Projects/Prototypes
+ - Automation for various personal projects
  - Contributing to Godot Tools/Extensions
-
-### 🌱 I’m currently learning:
-- Things little by little!
