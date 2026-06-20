@@ -15,8 +15,10 @@
 
  #### BackEnd
 - Python
+- Ruby
 - C#
-- .NET
+- Java
+
 
 #### DB
 - SQL/SQLite
