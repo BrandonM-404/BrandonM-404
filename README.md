@@ -1,4 +1,4 @@
-## I'm Brandon, SDE/SDET!
+## I'm Brandon, DEV & SDET!
 - Former CTO at Montier Design
 - Game Dev
 ### Current SkillSet
